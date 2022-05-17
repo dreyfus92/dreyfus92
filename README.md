@@ -1,6 +1,5 @@
 👋 Hi, I’m Paul Valladares, at my GitHub repositories you will find some personal projects that I develop in my free time. Feel free to take a look, to ask questions and to send PRs if you wish to do so. Some of my projects are still private and are waiting for proper documentation to be released as open source.
 👀 I’m interested in front end, back end, data analysis.
-🌱 I’m currently learning React.
 🤓 I’m looking to collaborate on any web development projects
 📫 How to reach me @soysarcasme on twitter
 
