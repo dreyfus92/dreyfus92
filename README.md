@@ -1,7 +1,7 @@
-![MasterHead](https://www.p3multisolutions.com/wp-content/uploads/2018/02/WEB-DEVELOPMENT.gif)
+[![MasterHead](https://www.p3multisolutions.com/wp-content/uploads/2018/02/WEB-DEVELOPMENT.gif)
 <h1 align="center">Hi 👋, I'm Paul Valladares</h1>
 <h3 align="center">A passionate frontend developer based in Acapulco, Mexico.</h3>
-<img align="right" alt="Coding" width="400" src=" https://camo.githubusercontent.com/deb3dfb62bf6c11cdb41b1a4ddf18cd2f73fc01b2b05b6f17955ca6b4e31cb5a/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f32326232323238373630323532332e356462643239303831353631642e676966">
+<img align="right" alt="Coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreyfus92&label=Profile%20views&color=0e75b6&style=flat" alt="dreyfus92" /> </p>
 
