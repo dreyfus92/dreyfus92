@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Typescript, GraphQL, Apollo, Firebase.**
 
-- 🤝 I’m looking for help with **frontend projects.**
+- 🤝 I’m looking to collaborate with **frontend projects.**
 
 - 📫 How to reach me **paulvi92@gmail.com**
 
