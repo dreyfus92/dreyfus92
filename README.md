@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **paulvi92@gmail.com**
 
-- ⚡ Fun fact **I switched career paths from civil engineering to become frontend developer.**
+- ⚡ Fun fact **I switched career paths from civil engineering to become a frontend developer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
