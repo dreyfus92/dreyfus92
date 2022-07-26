@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Hackapulco.**
 
-- 🌱 I’m currently learning **Typescript, GraphQL, Apollo, Rust and Firebase.**
+- 🌱 I’m currently learning **Typescript, GraphQL, Rust and Firebase.**
 
 - 🤝 I’m looking to collaborate with **frontend projects.**
 
