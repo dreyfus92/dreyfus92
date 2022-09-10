@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Hackapulco.**
 
-- 🌱 I’m currently learning **Typescript, Rust and Go.**
+- 🌱 I’m currently learning **Rust and Go.**
 
 - 🤝 I’m looking to collaborate with **frontend projects.**
 
