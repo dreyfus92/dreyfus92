@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Paul Valladares</h1>
 <h3 align="center">A passionate frontend developer based in Acapulco, Mexico.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dreyfus92&label=Profile%20views&color=0e75b6&style=flat" alt="dreyfus92" /> </p>
-
-<p align="left"> <a href="https://twitter.com/soysarcasme" target="blank"><img src="https://img.shields.io/twitter/follow/soysarcasme?logo=twitter&style=for-the-badge" alt="soysarcasme" /></a> </p>
-
 - 🔭 I’m currently working on **Hackapulco.**
 
 - 🌱 I’m currently learning **Rust and Go.**
