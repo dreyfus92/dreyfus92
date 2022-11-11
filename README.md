@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Rust.**
 
-- 🤝 I’m looking to collaborate with **frontend projects.**
+- 🤝 I’m looking to collaborate in **frontend projects.**
 
 - 📫 How to reach me **paulvi92@gmail.com**
 
