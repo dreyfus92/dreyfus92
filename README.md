@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Paul Valladares</h1>
 <h3 align="center">A passionate frontend developer based in Acapulco, Mexico.</h3>
 
-- 🔭 I’m currently working on **Hackapulco.**
+- 🔭 I’m currently working in **Hackapulco** and **astro-docs**.
 
 - 🌱 I’m currently learning **Rust.**
 
