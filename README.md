@@ -1,1 +1,3 @@
-![paul valladares](https://user-images.githubusercontent.com/85648028/231852408-b3296ea2-3c0a-4103-b3c4-2f3e1fd6edb0.png)
+hi, i'm paul 😁
+
+[![@dreyfus92 Astro contributions](https://astro.badg.es/v2/contributor/dreyfus92.svg)](https://astro.badg.es/contributor/dreyfus92/)
