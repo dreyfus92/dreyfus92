@@ -12,7 +12,7 @@ core maintainer of **[e18e](https://github.com/e18e)** (Ecosystem Performance),
 a JavaScript initiative focused on cleaner dependency trees, less bloat,
 and faster packages across the ecosystem.
 
-maintainer for **[Astro](https://github.com/withastro/astro)** and its ecosystem,
+maintainer for **[Astro](https://github.com/withastro)** and its ecosystem,
 including **[Starlight](https://github.com/withastro/starlight)** (docs) and
 **[StudioCMS](https://github.com/withstudiocms/studiocms)** (headless CMS for Astro).
 
