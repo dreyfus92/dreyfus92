@@ -16,5 +16,5 @@ maintainer for **[Astro](https://github.com/withastro)** and its ecosystem,
 including **[Starlight](https://github.com/withastro/starlight)** (docs) and
 **[StudioCMS](https://github.com/withstudiocms/studiocms)** (headless CMS for Astro).
 
-member of the working group at tauri and ocasionally contributing to
+member of the working group at tauri and occasionally contributing to
 **[tauri-docs](https://github.com/tauri-apps)**.
